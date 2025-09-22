@@ -3,7 +3,7 @@
 测试函数：在文件中，测试函数应以 test_ 开头（如 def test_addition():）。
 测试类：如果使用类来组织测试，类名应以 Test 开头（如 class TestMath:），并且其内部的方法同样需要以 test_ 开头。
 
-#  类外叫函数
+#类外叫函数
 def test_a():  # 用例1，测试函数命名规范
     assert 1==1  # 测试通过：.
 
